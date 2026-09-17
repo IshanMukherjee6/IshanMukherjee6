@@ -11,7 +11,7 @@
 - 📊 Exploring Data Analytics & Data Science
 - 🤖 Interested in AI/ML
 - ☕ My go-to language is Java
-- 🌱 Currently learning React, SQL, Power BI & DSA
+- 🌱 Currently learning SQL, Power BI & DSA
 
 ---
 
