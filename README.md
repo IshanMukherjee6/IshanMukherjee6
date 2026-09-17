@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshanMukherjee6&show_icons=true&theme=tokyonight)
+https://github-readme-stats.nixrajput.com/api?username=IshanMukherjee6&show_icons=true&theme=tokyonight
 
 ---
 
